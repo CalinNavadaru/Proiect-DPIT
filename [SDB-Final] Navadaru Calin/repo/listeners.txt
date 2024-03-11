@@ -1,0 +1,3 @@
+Marcel,45,Ret,Andra,pop,12345
+a,23,trey,Pompeliu,rock,12312
+b,12,verdeata,Mercin,Pop,1221341
